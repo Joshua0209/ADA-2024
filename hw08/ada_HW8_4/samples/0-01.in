@@ -1,0 +1,6 @@
+5
+a.o 3 b.o c.o a.cpp 5
+b.o 1 b.cpp 8
+c.o 1 c.cpp 12
+a.exe 2 a.o c.o 6
+b.exe 1 b.o 6
